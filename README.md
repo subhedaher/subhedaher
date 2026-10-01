@@ -198,27 +198,6 @@ public sealed class SubheDaher : IBackendEngineer, IDevOpsEngineer
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=subhedaher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhedaher&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhedaher&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhedaher&theme=tokyonight&hide_border=true" alt="streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhedaher&theme=tokyo-night&hide_border=true&area=true" alt="activity"/>
-</div>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
