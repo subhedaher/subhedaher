@@ -23,7 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=subhedaher&label=Profile%20Views&color=512bd4&style=for-the-badge" alt="views"/>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 👨‍💻 About Me
 
@@ -58,38 +58,25 @@ public sealed class SubheDaher : IBackendEngineer, IDevOpsEngineer
 - 🛡️ Secure production on **Linux + Nginx + SSL/TLS (auto-renewing)**
 - 📫 **subhedaher@gmail.com**
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 📊 Impact in Numbers
 
-<div align="center">
+<p align="center"><img src="assets/stats.svg" width="100%" alt="Impact in numbers"/></p>
 
-| ⚡ 100+ | 🧩 18 | 🔌 120+ | 🔐 64 | 🚢 10+ |
-|:---:|:---:|:---:|:---:|:---:|
-| **IoT devices** streaming into a live ERP | **Modules** in one compliance platform | **REST endpoints** delivered | **Permissions** mapped to policies & JWT claims | **Production backends** delivered |
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
-</div>
+## 🏛️ How I Build (Clean Architecture + CQRS)
 
----
+<p align="center"><img src="assets/architecture.svg" width="100%" alt="Clean Architecture"/></p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🔄 How I Ship (CI/CD Pipeline)
 
-```mermaid
-flowchart LR
-    A[💻 git push] --> B[🏗️ Build & Test]
-    B --> C[🐳 Docker Image]
-    C --> D[📦 Registry Push]
-    D --> E[🚀 Deploy]
-    E --> F[🗄️ EF Migrations]
-    F --> G{❤️ Health Check}
-    G -- ✅ Healthy --> H[🎉 Live]
-    G -- ❌ Failed --> I[⏪ Auto Rollback]
-    style A fill:#512BD4,color:#fff
-    style H fill:#239120,color:#fff
-    style I fill:#E44C30,color:#fff
-```
+<p align="center"><img src="assets/pipeline.svg" width="100%" alt="CI/CD pipeline"/></p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🛠️ Tech Stack
 
@@ -148,7 +135,7 @@ flowchart LR
 
 <sub>Also worked with: PHP · Laravel · JavaScript</sub>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🚀 Featured Projects
 
@@ -161,7 +148,7 @@ flowchart LR
 
 - **18 modules / 120+ endpoints**: companies, suppliers, products, shipments, documents
 - ⏰ Automated **expiry-reminder engine** (Hangfire + HTML email templates)
-- 🔐 **RBAC**: 64 permissions → policies + JWT claims, audit trail, soft-delete/restore
+- 🔐 **RBAC** with granular permissions → authorization policies + JWT claims, audit trail, soft-delete/restore
 - 🌍 Bilingual **EN / AR**
 - 🐳 **Stage + Production** envs with push-to-deploy & automated migrations
 
@@ -200,7 +187,7 @@ flowchart LR
 </tr>
 </table>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🎓 Education & Certifications
 
@@ -209,13 +196,17 @@ flowchart LR
 - 🏛️ **Software Architecture**: Udemy (2024)
 - 🌐 **ASP.NET Core Web Development**: Udemy (2023)
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 📈 GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=subhedaher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhedaher&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subhedaher&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
 </div>
 
 <div align="center">
@@ -226,7 +217,7 @@ flowchart LR
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhedaher&theme=tokyo-night&hide_border=true&area=true" alt="activity"/>
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🐍 Contribution Snake
 
@@ -234,7 +225,7 @@ flowchart LR
   <img src="https://raw.githubusercontent.com/subhedaher/subhedaher/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🤝 Let's Connect
 
