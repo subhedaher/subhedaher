@@ -5,7 +5,7 @@
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/subhedaher">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2E9EF7&center=true&vCenter=true&width=800&height=60&lines=From+Architecture+%E2%86%92+Monitored+Production+%F0%9F%9A%80;Clean+Architecture+%2B+CQRS+with+ASP.NET+Core;CI%2FCD+with+GitHub+Actions+%E2%9A%99%EF%B8%8F;Docker+%2B+Nginx+%2B+Linux+in+Production+%F0%9F%90%B3;Real-time+ERP+fed+by+100%2B+IoT+Devices+%E2%9A%A1" alt="Typing SVG"/>
   </a>
 </div>
@@ -20,7 +20,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=512bd4&style=for-the-badge" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=subhedaher&label=Profile%20Views&color=512bd4&style=for-the-badge" alt="views"/>
 </p>
 
 ---
@@ -214,16 +214,16 @@ flowchart LR
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=subhedaher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhedaher&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhedaher&theme=tokyonight&hide_border=true" alt="streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhedaher&theme=tokyo-night&hide_border=true&area=true" alt="activity"/>
 </div>
 
 ---
@@ -231,7 +231,7 @@ flowchart LR
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/subhedaher/subhedaher/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
 ---
