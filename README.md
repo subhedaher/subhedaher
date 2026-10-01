@@ -19,10 +19,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhedaher&label=Profile%20Views&color=512bd4&style=for-the-badge" alt="views"/>
-</p>
-
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 👨‍💻 About Me
