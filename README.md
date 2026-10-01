@@ -19,6 +19,13 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
 
+<p align="center">
+  <b>💼 Open for .NET &amp; DevOps opportunities</b><br/><br/>
+  <a href="https://drive.google.com/uc?export=download&amp;id=1uFolw54NoNpyRb3asFve2zJusi7qYTtK"><img src="https://img.shields.io/badge/Download_CV-PDF-512BD4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/></a>
+  <a href="https://www.linkedin.com/in/subhe-daher-843764214"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:subhedaher@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 👨‍💻 About Me
@@ -28,7 +35,7 @@ public sealed class SubheDaher : IBackendEngineer, IDevOpsEngineer
 {
     public string Role       => ".NET Backend Engineer | DevOps";
     public string Location   => "Cairo, Egypt 🇪🇬";
-    public int    Experience => 4; // years, production systems
+    public string Experience => "3+ years"; // production systems
 
     public string[] Stack => new[]
     {
@@ -197,7 +204,11 @@ public sealed class SubheDaher : IBackendEngineer, IDevOpsEngineer
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/subhedaher/subhedaher/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhedaher/subhedaher/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhedaher/subhedaher/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/subhedaher/subhedaher/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </div>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
@@ -220,8 +231,6 @@ public sealed class SubheDaher : IBackendEngineer, IDevOpsEngineer
 </p>
 
 <div align="center">
-
-### 💼 Open for .NET & DevOps opportunities
 
 **"First, solve the problem. Then, write the code."** – John Johnson
 
